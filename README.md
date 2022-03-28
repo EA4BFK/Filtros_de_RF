@@ -2,6 +2,7 @@
 
 En este repositorio encontrareis la presentación realizada el 26 de Marzo sobre Diseño y Construcción de Filtros de RF.
 El video de la citada presentación lo podeis ver en este enlace:
+        https://www.youtube.com/watch?v=4xy0dQp2xKg&t=16s
 
 Así mismo encontrareis los siguientes ficheros:
   - Ejemplos_QucsStudio_Filtros.zip. Con los ficheros de los filtros mostrado en la presentación para emplear en QUCS Studio
